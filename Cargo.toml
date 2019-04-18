@@ -3,6 +3,10 @@ name = "rs64romtool"
 version = "0.1.0"
 authors = ["monocasa <tristan.hastings.miller@gmail.com>"]
 edition = "2018"
+description = "Tool for manipulating Nintendo 64 ROM images"
+license = "GPL-3.0-or-later"
+repository = "https://github.com/monocasa/rs64romtool"
+homepage = "https://github.com/monocasa/rs64romtool"
 
 [dependencies]
 rs64-rom = "0.1.0"
